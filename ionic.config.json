@@ -1,5 +1,5 @@
 {
   "name": "krishi-iob",
-  "integrations": {},
+  "integrations": {"capacitor": {}},
   "type": "react"
 }
