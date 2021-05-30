@@ -28,7 +28,7 @@ const Tab1: React.FC = () => {
           <IonList>
               <IonItem>
                 <IonLabel position="stacked">Already a member</IonLabel>
-                <IonInput id="token" onIonChange={(e:any)=> {setToken(e.target.value)}} value={token} placeholder="Enter or Paste your identity token here"> </IonInput>
+                <IonInput id="token" onIonChange={(e:any)=> {setToken(e.target.value)}} value={token} placeholder="Enter or Paste your Account ID here"> </IonInput>
               </IonItem>
               <IonItem>
                 <IonLabel>Remember me</IonLabel>
