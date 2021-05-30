@@ -1,0 +1,6 @@
+{
+	"appId": "com.example.app",
+	"appName": "krishi-iob",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
